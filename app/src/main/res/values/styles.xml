@@ -13,4 +13,13 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+    <style name="counterText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="counterOverride">
+        <item name="android:textColor">@color/red_700</item>
+    </style>
+
 </resources>
